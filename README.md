@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm an Aerospace undergrad at Iowa State University. 
+### Hi there I'm Daniel Daugherty👋
+I'm an Aerospace undergrad at Iowa State University. I am interested in learning about coding in relation to aerospace aplications. I am currently worrking on finding an intership for aerospace engineering. To help me be more hireable I am looking into learning new programming languages beyond the ones I already know. My favorite hobby is playing games with friends either board games or video games. 
 
 
 <!--

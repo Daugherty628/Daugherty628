@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm an Aerospace undergrad at Iowa State University. 
+
 
 <!--
 **Daugherty628/Daugherty628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
